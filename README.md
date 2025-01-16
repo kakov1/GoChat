@@ -7,6 +7,11 @@ git clone https://github.com/kakov1/GoChat
 cd GoChat/src/
 go run chat.go
 ```
+# Docker
+You can deploy application in docker container. Use:
+```
+docker compose up
+```
 # How connect to server
 Choose any free port in program code and connect from console with:
 ```
